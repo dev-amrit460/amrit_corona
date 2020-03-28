@@ -1,0 +1,28 @@
+h1{
+	border-style: solid;
+    border-color: blue;
+	border-width: 1px;
+	border-radius: 10px;
+}
+#head3{
+	font-family:serifs;
+}
+#head1{
+	font-family:Verdana;
+	color:red;
+}
+#img1{
+	width: auto ;
+  max-width: 100% ;
+  height: auto ;
+	}
+#img2{
+	width: auto ;
+  max-width: 100% ;
+  height: auto ;
+	}
+#img3{
+	width: auto ;
+  max-width: 100% ;
+  height: auto ;
+	}
